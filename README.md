@@ -1,3 +1,5 @@
+## About me
+
 Hello, I'm Felipe! I've been programming since 2014, when I started learning Python out of curiosity. In 2016 I enrolled as an undergraduate Computer Science student at [UFRGS](https://www.inf.ufrgs.br/site/) and got my bachelor's degree in 2021.
 
 I'm currently between jobs after working as a C++ software engineer from 2019 to 2022. I'm mainly looking for software engineering opportunities that require my preferred programming languages: Python, C++ and/or Kotlin. However, I'm always open for roles that require other tools and technologies. I'm actively looking for remote job opportunities, but am also willing to relocate if necessary.
